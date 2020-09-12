@@ -1,0 +1,4 @@
+C:\Users\watanabe soichiro\Documents\3年次\情報メディア実験\A\02_debug\iml_physics\src\btcube\Debug\btcube.exe
+C:\Users\watanabe soichiro\Documents\3年次\情報メディア実験\A\02_debug\iml_physics\src\btcube\Debug\btcube.pdb
+C:\Users\watanabe soichiro\Documents\3年次\情報メディア実験\A\final\iml_physics\src\btcube\Debug\btcube.exe
+C:\Users\watanabe soichiro\Documents\3年次\情報メディア実験\A\final\iml_physics\src\btcube\Debug\btcube.pdb

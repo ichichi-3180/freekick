@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\watanabe soichiro\Documents\3年次\情報メディア実験\A\final\iml_physics\shared\inc\rx_shadow_gl.h(237,40): warning C4838: 'double' から 'float' への変換には縮小変換が必要です
+C:\Users\watanabe soichiro\Documents\3年次\情報メディア実験\A\final\iml_physics\shared\inc\rx_shadow_gl.h(237,57): warning C4838: 'double' から 'float' への変換には縮小変換が必要です
+C:\Users\watanabe soichiro\Documents\3年次\情報メディア実験\A\final\iml_physics\shared\inc\rx_shadow_gl.h(237,74): warning C4838: 'double' から 'float' への変換には縮小変換が必要です
+main.obj : warning LNK4075: /EDITANDCONTINUE は /SAFESEH の指定によって無視されます。
+  btcube.vcxproj -> C:\Users\watanabe soichiro\Documents\3年次\情報メディア実験\A\final\iml_physics\src\btcube\Debug\btcube.exe
+  C:\Users\watanabe soichiro\Documents\3年次\情報メディア実験\A\final\iml_physics\src\btcube\\..\..\bin\freeglut.dll
+  C:\Users\watanabe soichiro\Documents\3年次\情報メディア実験\A\final\iml_physics\src\btcube\\..\..\bin\glew32.dll
+          2 個のファイルをコピーしました。
